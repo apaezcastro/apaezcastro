@@ -3,7 +3,7 @@
 I’m **Andre Paez Castro** — exploring the world of **AR, Computer Vision, and AI**.  
 🎓 B.S. Psychology, Minor in Cybersecurity (Western Michigan University)  
 💻 Building with Python, Flask, React, and Unity  
-🚀 Goal: Contribute to **Meta Reality Labs** or **Surreality Lab (Pitt)**  
+🚀 Goal: Contribute to **XR, Computer Vision, and AI Research**  
 
 ---
 
