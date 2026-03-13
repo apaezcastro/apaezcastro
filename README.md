@@ -7,8 +7,8 @@ I’m **Andre Paez Castro** — exploring the world of **AR, Computer Vision, an
 
 ---
 
-- 🔭 Currently working on: Emotion Detection App, and XR Games and Tools.
-- 🌱 Learning: Algorithms, Spatial Computing, and XR Development  
+- 🔭 Currently working on: XR Translation App, feel free to ask me about it.
+- 🌱 Learning: AI application in XR.  
 - 👯 Open to collaborate on: XR/AI projects and research prototypes  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aspc23)  
-- ⚡ Fun fact: I like to play alot of chess so add me on chess.com @andrepaez23
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aspc23)
+- Website: https://wwww.apaezcastro.com
