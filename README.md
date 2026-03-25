@@ -11,4 +11,4 @@ I’m **Andre Paez Castro** — exploring the world of **XR, AI(Computer Vision)
 - 🌱 Learning: AI application in XR.  
 - 👯 Open to collaborate on: XR/AI projects and research prototypes  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aspc23)
-- Website: https://wwww.apaezcastro.com
+- Website: https://apaezcastro.com
